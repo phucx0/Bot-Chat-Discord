@@ -7,8 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "app" : "node src/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "app" : "node src/app.js"
   },
   "keywords": [],
   "author": "kevin",
