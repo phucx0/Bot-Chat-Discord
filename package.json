@@ -1,0 +1,16 @@
+{
+  "name": "tool-chat-discord",
+  "version": "1.0.0",
+  "description": "This is an automated chatting tool on Discord",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "app" : "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
